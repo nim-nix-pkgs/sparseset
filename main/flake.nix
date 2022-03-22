@@ -9,7 +9,7 @@
   
   inputs.src-sparseset-main.flake = false;
   inputs.src-sparseset-main.owner = "planetis-m";
-  inputs.src-sparseset-main.ref   = "refs/heads/main";
+  inputs.src-sparseset-main.ref   = "main";
   inputs.src-sparseset-main.repo  = "sparseset";
   inputs.src-sparseset-main.type  = "github";
   

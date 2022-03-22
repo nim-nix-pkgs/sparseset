@@ -9,7 +9,7 @@
   
   inputs.src-sparseset-v0_3_1.flake = false;
   inputs.src-sparseset-v0_3_1.owner = "planetis-m";
-  inputs.src-sparseset-v0_3_1.ref   = "refs/tags/v0.3.1";
+  inputs.src-sparseset-v0_3_1.ref   = "v0_3_1";
   inputs.src-sparseset-v0_3_1.repo  = "sparseset";
   inputs.src-sparseset-v0_3_1.type  = "github";
   
